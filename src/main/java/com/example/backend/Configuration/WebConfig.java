@@ -14,7 +14,7 @@ public class WebConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**") // Applies to all routes
-                        .allowedOrigins("https://enchanting-capybara-46cea3.netlify.app") // frontend URL
+                        .allowedOrigins("https://proyect-frontend-deploymen.vercel.app") // frontend URL
                         .allowedMethods("GET", "POST", "PUT", "DELETE") // Permitted methods
                         .allowedHeaders("*") // Permitted headers
                         .allowCredentials(true); // Allow sending cookies and credentials
