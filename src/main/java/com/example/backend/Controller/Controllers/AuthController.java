@@ -58,7 +58,7 @@ public class AuthController {
             return ResponseEntity.badRequest().body("Email not found.");
         }
 
-        String resetLink = "http://localhost:3000/update-password?email=" + email;
+        String resetLink = "https://proyect-frontend-deploymen.vercel.app/update-password?email=" + email;
 
         emailService.sendPasswordResetEmail(email, resetLink);
 
