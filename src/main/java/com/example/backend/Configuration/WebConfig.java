@@ -15,7 +15,7 @@ public class WebConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**") // Applies to all routes
                         .allowedOrigins("https://proyect-frontend-deploymen.vercel.app") // frontend URL
-                        .allowedMethods("GET", "POST", "PUT", "DELETE") // Permitted methods
+                        .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // Permitted methods
                         .allowedHeaders("*") // Permitted headers
                         .allowCredentials(true); // Allow sending cookies and credentials
             }
