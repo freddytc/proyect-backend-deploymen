@@ -1,47 +1,47 @@
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\BackendApplication.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Configuration\SecurityConfig.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Configuration\WebConfig.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\AuthController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\DetailSaleController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\OrderController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\OrderDetailController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\PaymentController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\ProductController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\RoleController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\SaleController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\UserController.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\AuthService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\DetailSaleService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\EmailFactory.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\EmailService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\OrderDetailService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\OrderService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\PasswordResetEmail.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\PaymentConfirmationEmail.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\PaymentService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\ProductService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\RoleService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\SaleService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\UserService.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\DetailSale.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\LoginRequest.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\LoginResponse.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Order.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\OrderDetail.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\PasswordResetToken.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Payment.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Product.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\ProductRanking.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Role.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Sale.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\User.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Interface\Email.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\DetailSaleRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\OrderDetailRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\OrderRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\PasswordResetTokenRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\PaymentRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\ProductRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\RoleRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\SaleRepository.java
-C:\Users\Freddy\Downloads\PortableGit\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\UserRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\BackendApplication.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Configuration\SecurityConfig.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Configuration\WebConfig.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\AuthController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\DetailSaleController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\OrderController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\OrderDetailController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\PaymentController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\ProductController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\RoleController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\SaleController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Controllers\UserController.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\AuthService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\DetailSaleService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\EmailFactory.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\EmailService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\OrderDetailService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\OrderService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\PasswordResetEmail.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\PaymentConfirmationEmail.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\PaymentService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\ProductService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\RoleService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\SaleService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Controller\Services\UserService.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\DetailSale.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\LoginRequest.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\LoginResponse.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Order.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\OrderDetail.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\PasswordResetToken.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Payment.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Product.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\ProductRanking.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Role.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\Sale.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Entities\User.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Interface\Email.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\DetailSaleRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\OrderDetailRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\OrderRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\PasswordResetTokenRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\PaymentRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\ProductRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\RoleRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\SaleRepository.java
+P:\Agosto2024\present final\proyect-backend-deploymen\src\main\java\com\example\backend\Model\Repositories\UserRepository.java
