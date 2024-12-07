@@ -14,8 +14,7 @@ public class WebConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**") // Applies to all routes
-                        .allowedOrigins("https://proyect-frontend-deploymen-aon9.vercel.app",
-                                "https://test-rso2.onrender.com") // frontend URL
+                        .allowedOrigins("https://proyect-frontend-deploymen-aon9.vercel.app") // frontend URL
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // Permitted methods
                         .allowedHeaders("*") // Permitted headers
                         .allowCredentials(true); // Allow sending cookies and credentials
